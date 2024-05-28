@@ -14,7 +14,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="FatCat.Toolkit" Version="1.0.226" />
+    <PackageReference Include="FatCat.Toolkit" Version="1.0.227" />
   </ItemGroup>
 
 </Project>
