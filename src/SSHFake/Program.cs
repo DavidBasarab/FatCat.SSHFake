@@ -40,13 +40,3 @@ public static class Program
 		}
 	}
 }
-
-public class LearningWorker
-{
-	public async Task DoWork()
-	{
-		await Task.CompletedTask;
-
-		ConsoleLog.Write("Hello World");
-	}
-}
