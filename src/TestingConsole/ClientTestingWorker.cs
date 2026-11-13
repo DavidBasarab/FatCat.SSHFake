@@ -17,6 +17,6 @@ public class ClientTestingWorker(ITcpFactory tcpFactory)
 
 		await openClient.Connect("localhost", ServerPort);
 
-		await openClient.Send("Hello from the client");
+		openClient.Send("Hello from the client");
 	}
 }
