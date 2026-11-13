@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SSHFake/SSHFake.csproj" />
+  <Project Path="TestingConsole/TestingConsole.csproj" />
+</Solution>
